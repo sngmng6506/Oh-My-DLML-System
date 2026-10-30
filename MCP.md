@@ -8,3 +8,5 @@ MCP는 미리 설치하지 않는다. 기본 도구로 해결하기 어렵고 �
 | **Hugging Face MCP** | 공개 모델·데이터셋을 찾거나 비교해야 하는데 웹 검색으로 정확한 정보를 얻기 어려울 때 | Hub의 공개 모델·데이터셋·Spaces를 검색하고 조회한다. 로그인 없이 연결해 공개 조회 도구만 쓴다. | [설치 및 사용법](https://github.com/huggingface/hf-mcp-server) |
 | **MLflow MCP** | MLflow를 사용하는 프로젝트에서 실험·실행·트레이스를 조회·분석해야 할 때 | MLflow의 실험·실행·트레이스를 조회하고 분석한다. | [설치 및 사용법](https://mlflow.org/docs/latest/genai/mcp/) |
 | **Jupyter MCP** | 노트북으로 작업하는 프로젝트에서 셀을 실행하며 결과를 확인해야 할 때 | 로컬 Jupyter 노트북의 셀을 실행하고 결과를 읽는다. | [설치 및 사용법](https://github.com/datalayer/jupyter-mcp-server) |
+| **arXiv MCP** | 논문 검색·다운로드·분석이 반복적으로 필요한 연구 작업일 때 | arXiv 논문을 검색하고 메타데이터와 원문을 조회·분석한다. | [설치 및 사용법](https://github.com/blazickjp/arxiv-mcp-server) |
+| **Kaggle MCP** | Kaggle 데이터셋·대회·노트북을 직접 조회하거나 활용해야 할 때 | Kaggle 데이터셋·대회·노트북 관련 작업을 수행한다. | [공식 문서](https://www.kaggle.com/docs/mcp) |
