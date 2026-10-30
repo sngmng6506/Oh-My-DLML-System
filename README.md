@@ -10,6 +10,8 @@ AI 에이전트로 DL/ML 작업을 할 때 지킬 원칙을 정리한다. 일반
 | [ML_PRINCIPLES.md](ML_PRINCIPLES.md) | 데이터 처리, 모델 학습·평가, 실험 |
 | [SERVING_PRINCIPLES.md](SERVING_PRINCIPLES.md) | 학습한 모델의 서빙·배포 |
 | [LLM_APP_PRINCIPLES.md](LLM_APP_PRINCIPLES.md) | 프롬프트, RAG, LLM 에이전트, 파인튜닝 |
+| [MCP.md](MCP.md) | 기본 도구로 하기 어려워 MCP 연결을 검토할 때 |
+| [SKILLS.md](SKILLS.md) | 기본 도구로 하기 어려워 스킬 설치를 검토할 때 |
 
 
 ## 프로젝트에 적용하기
