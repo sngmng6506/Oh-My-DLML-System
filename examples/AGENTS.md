@@ -1,11 +1,7 @@
-# 프로젝트 작업 안내
+# Project Instructions
 
-이 프로젝트에는 [Oh-My-System](https://github.com/sngmng6506/Oh-My-System)과 [Oh-My-DLML-System](https://github.com/sngmng6506/Oh-My-DLML-System)의 원칙을 적용한다. 작업과 관련된 문서만 확인한다. 프로젝트 고유의 정책·명세가 있으면 함께 확인하고, 이 원칙과 다르면 프로젝트 문서를 따른다.
+Follow [Oh-My-System](https://github.com/sngmng6506/Oh-My-System) and [Oh-My-DLML-System](https://github.com/sngmng6506/Oh-My-DLML-System).
 
-- 데이터 처리·학습·평가·실험 작업: [DL/ML 작업 원칙](https://github.com/sngmng6506/Oh-My-DLML-System/blob/main/ML_PRINCIPLES.md)과 프로젝트의 실험 기록이 있으면 함께 확인한다.
-- 모델 서빙·배포 작업: [모델 서빙·배포 원칙](https://github.com/sngmng6506/Oh-My-DLML-System/blob/main/SERVING_PRINCIPLES.md)을 확인한다.
-- 프롬프트·RAG·LLM 에이전트·파인튜닝 작업: [LLM 응용 개발 원칙](https://github.com/sngmng6506/Oh-My-DLML-System/blob/main/LLM_APP_PRINCIPLES.md)을 확인한다.
-- 기본 도구로 작업하기 어려운 경우에만 [MCP 목록](https://github.com/sngmng6506/Oh-My-DLML-System/blob/main/MCP.md) 또는 [Skill 목록](https://github.com/sngmng6506/Oh-My-DLML-System/blob/main/SKILLS.md)의 사용 전제를 확인한다. 새 MCP 설치 전에는 용도와 접근 범위를 알리고 사용자의 확인을 받는다.
-- 그 밖의 개발·Git·보안·배포 작업: [Oh-My-System](https://github.com/sngmng6506/Oh-My-System)의 해당 원칙을 확인한다.
-
-위 링크는 문서를 자동으로 불러오지 않는다. 관련 작업을 시작할 때 해당 문서를 실제로 열어 확인한다.
+- Read only the relevant principles: [ML](https://github.com/sngmng6506/Oh-My-DLML-System/blob/main/ML_PRINCIPLES.md) (data/training/evaluation), [Serving](https://github.com/sngmng6506/Oh-My-DLML-System/blob/main/SERVING_PRINCIPLES.md) (inference/deployment), [LLM](https://github.com/sngmng6506/Oh-My-DLML-System/blob/main/LLM_APP_PRINCIPLES.md) (prompts/RAG/agents/fine-tuning).
+- Consult [MCP](https://github.com/sngmng6506/Oh-My-DLML-System/blob/main/MCP.md) or [Skills](https://github.com/sngmng6506/Oh-My-DLML-System/blob/main/SKILLS.md) only when built-in tools are insufficient. Confirm scope and obtain approval before installing a new MCP.
+- Project-specific instructions take precedence. Read linked documents explicitly; links do not load automatically. If inaccessible, report that rather than assuming their contents.
