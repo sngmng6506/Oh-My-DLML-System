@@ -5,11 +5,11 @@ AI 에이전트로 DL/ML 작업을 할 때 지킬 원칙을 정리한다. 일반
 
 ## 문서
 
-| 문서 | 내용 |
+| 문서 | 확인할 작업 |
 | --- | --- |
-| [ML_PRINCIPLES.md](ML_PRINCIPLES.md) | 평가, 데이터, 실험 기록, 결과 보고, 학습 비용·중단 대비에 관한 원칙 |
-| [SERVING_PRINCIPLES.md](SERVING_PRINCIPLES.md) | 전처리 일치, 모델 버전, 배포 전 검증, 분포 변화 감지에 관한 원칙 |
-| [LLM_APP_PRINCIPLES.md](LLM_APP_PRINCIPLES.md) | LLM 응용의 평가 세트, 버전 고정, LLM 채점, RAG 평가, 비용에 관한 원칙 |
+| [ML_PRINCIPLES.md](ML_PRINCIPLES.md) | 데이터 처리, 모델 학습·평가, 실험 |
+| [SERVING_PRINCIPLES.md](SERVING_PRINCIPLES.md) | 학습한 모델의 서빙·배포 |
+| [LLM_APP_PRINCIPLES.md](LLM_APP_PRINCIPLES.md) | 프롬프트, RAG, LLM 에이전트, 파인튜닝 |
 
 
 ## 프로젝트에 적용하기
