@@ -12,6 +12,10 @@
 | **huggingface-trackio** | 프로젝트에 실험 기록 도구가 없어 학습 지표를 기록·비교해야 할 때 | Trackio로 학습 지표를 기록하고 조회한다. Space 동기화는 기본이 공개라 쓰지 않는다. | [Hugging Face](https://github.com/huggingface/skills/tree/main/skills/huggingface-trackio) |
 | **huggingface-papers** | 논문 내용이나 연결된 모델·데이터셋을 확인해야 할 때 | Hugging Face 논문 페이지를 Markdown과 메타데이터로 조회한다. | [Hugging Face](https://github.com/huggingface/skills/tree/main/skills/huggingface-papers) |
 
+| **huggingface-best** | 공개 모델을 벤치마크로 비교해야 할 때 | 모델 후보를 비교·선정한다. | [Hugging Face](https://github.com/huggingface/skills/tree/main/skills/huggingface-best) |
+| **huggingface-vision-trainer** | 비전 모델 학습 워크플로가 필요할 때 | 이미지 분류·검출·세그멘테이션 학습을 안내한다. | [Hugging Face](https://github.com/huggingface/skills/tree/main/skills/huggingface-vision-trainer) |
+| **train-sentence-transformers** | 임베딩·reranker를 학습해야 할 때 | Sentence Transformers 기반 학습을 안내한다. | [Hugging Face](https://github.com/huggingface/skills/tree/main/skills/train-sentence-transformers) |
+
 ## 설치 명령
 
 설치 전 [공식 저장소](https://github.com/huggingface/skills)의 최신 안내를 확인한다.
