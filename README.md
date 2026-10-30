@@ -7,7 +7,7 @@ AI 에이전트로 DL/ML 작업을 할 때 지킬 원칙을 정리한다. 일반
 
 | 문서 | 내용 |
 | --- | --- |
-| [ML_PRINCIPLES.md](ML_PRINCIPLES.md) | 평가, 데이터, 실험 기록, 결과 보고, 학습 비용에 관한 원칙 |
+| [ML_PRINCIPLES.md](ML_PRINCIPLES.md) | 평가, 데이터, 실험 기록, 결과 보고, 학습 비용·중단 대비에 관한 원칙 |
 
 
 ## 프로젝트에 적용하기
