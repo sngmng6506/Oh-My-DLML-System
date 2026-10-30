@@ -4,6 +4,7 @@
 
 - 데이터 처리·학습·평가·실험 작업: [DL/ML 작업 원칙](https://github.com/sngmng6506/Oh-My-DLML-System/blob/main/ML_PRINCIPLES.md)과 프로젝트의 실험 기록이 있으면 함께 확인한다.
 - 모델 서빙·배포 작업: [모델 서빙·배포 원칙](https://github.com/sngmng6506/Oh-My-DLML-System/blob/main/SERVING_PRINCIPLES.md)을 확인한다.
+- 프롬프트·RAG·LLM 에이전트·파인튜닝 작업: [LLM 응용 개발 원칙](https://github.com/sngmng6506/Oh-My-DLML-System/blob/main/LLM_APP_PRINCIPLES.md)을 확인한다.
 - 그 밖의 개발·Git·보안·배포 작업: [Oh-My-System](https://github.com/sngmng6506/Oh-My-System)의 해당 원칙을 확인한다.
 
 위 링크는 문서를 자동으로 불러오지 않는다. 관련 작업을 시작할 때 해당 문서를 실제로 열어 확인한다.
