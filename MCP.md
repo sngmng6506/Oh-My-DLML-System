@@ -1,12 +1,11 @@
 # MCP 목록
 
-MCP는 미리 설치하지 않는다. 기본 도구로 해결하기 어렵고 사용 전제에 맞을 때만 검토한다.
-새 MCP 설치 전 용도·접근 범위를 알리고 확인받는다(사용자가 직접 설치를 요청했다면 제외). 기본적으로 인증 없이 사용 가능한 도구를 우선하고, 인증이 필요하면 접근 권한을 확인한다.
+미리 설치하지 않는다. 기본 도구로 부족하고 사용 전제에 맞을 때만 검토한다. 새 MCP 설치 전 용도·접근 범위를 알리고 확인받는다(직접 설치 요청 시 제외). 인증 없는 도구를 우선하고, 인증이 필요하면 접근 권한을 확인한다.
 
-| MCP | 사용 전제 | 설명 | 공식 문서 |
-| --- | --- | --- | --- |
-| **Hugging Face MCP** | 공개 모델·데이터셋을 찾거나 비교해야 하는데 웹 검색으로 정확한 정보를 얻기 어려울 때 | Hub의 공개 모델·데이터셋·Spaces를 검색하고 조회한다. 로그인 없이 연결해 공개 조회 도구만 쓴다. | [설치 및 사용법](https://github.com/huggingface/hf-mcp-server) |
-| **MLflow MCP** | MLflow를 사용하는 프로젝트에서 실험·실행·트레이스를 조회·분석해야 할 때 | MLflow의 실험·실행·트레이스를 조회하고 분석한다. | [설치 및 사용법](https://mlflow.org/docs/latest/genai/mcp/) |
-| **Jupyter MCP** | 노트북으로 작업하는 프로젝트에서 셀을 실행하며 결과를 확인해야 할 때 | 로컬 Jupyter 노트북의 셀을 실행하고 결과를 읽는다. | [설치 및 사용법](https://github.com/datalayer/jupyter-mcp-server) |
-| **arXiv MCP** | 논문 검색·다운로드·분석이 반복적으로 필요한 연구 작업일 때 | arXiv 논문을 검색하고 메타데이터와 원문을 조회·분석한다. | [설치 및 사용법](https://github.com/blazickjp/arxiv-mcp-server) |
-| **Kaggle MCP** | Kaggle 데이터셋·대회·노트북을 직접 조회하거나 활용해야 할 때 | Kaggle 데이터셋·대회·노트북 관련 작업을 수행한다. | [공식 문서](https://www.kaggle.com/docs/mcp) |
+| MCP | 사용 전제 | 공식 문서 |
+| --- | --- | --- |
+| **Hugging Face MCP** | 웹 검색만으로 부족한 공개 Hub 모델·데이터셋·Spaces 조회. 인증 없이 공개 조회 도구만 사용 | [공식 저장소](https://github.com/huggingface/hf-mcp-server) |
+| **MLflow MCP** | MLflow 실험·실행·트레이스 조회·분석 | [공식 문서](https://mlflow.org/docs/latest/genai/mcp/) |
+| **Jupyter MCP** | 로컬 노트북 셀 실행·결과 확인 | [공식 저장소](https://github.com/datalayer/jupyter-mcp-server) |
+| **arXiv MCP** | 반복적인 논문 검색·다운로드·원문 분석 | [공식 저장소](https://github.com/blazickjp/arxiv-mcp-server) |
+| **Kaggle MCP** | Kaggle 데이터셋·대회·노트북 조회·활용 | [공식 문서](https://www.kaggle.com/docs/mcp) |
